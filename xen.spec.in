@@ -176,6 +176,8 @@ Patch542: patch-866dedab-x86-PV-also-cover-Dom0-in-SPEC_CTRL-PRED_CMD-emulati.pa
 # Backport improved early microcode loading to allow usage of BTI related
 # microcode updates without updating the BIOS.
 Patch543: patch-f97838bb-x86-Move-microcode-loading-earlier.patch
+Patch544: patch-x86-microcode-Indicate-not-found-in-rc-of-microcode_.patch
+Patch545: patch-x86-correct-ordering-of-operations-during-S3-resume.patch
 
 # Upstreamable patches
 Patch601: patch-xen-libxl-error-write-perm.patch
